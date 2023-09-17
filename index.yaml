@@ -9,6 +9,6 @@ entries:
     name: qatdemochart
     type: application
     urls:
-    - https://raw.githubusercontent.com/shawn9977/qatplugindemohelmchart/918/qatdemochart-0.1.0.tgz/qatdemochart-0.1.0.tgz
+    - https://raw.githubusercontent.com/shawn9977/qatplugindemohelmchart/918/qatdemochart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-09-15T16:44:41.223086538+08:00"
