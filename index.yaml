@@ -9,6 +9,6 @@ entries:
     name: myqatchart
     type: application
     urls:
-    - https://raw.githubusercontent.com/shawn9977/qatplugindemohelmchart/109/myqatchart-0.1.0.tgz/myqatchart-0.1.0.tgz
+    - https://raw.githubusercontent.com/shawn9977/qatplugindemohelmchart/109/myqatchart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-10-09T18:53:35.785142358+08:00"
