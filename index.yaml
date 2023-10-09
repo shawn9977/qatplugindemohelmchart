@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myqatchart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-10-09T18:53:35.785365235+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 55aa84b008084bfa2a6cfd37411ca35952a6e22c2310e882fc1b001792019056
+    name: myqatchart
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/shawn9977/qatplugindemohelmchart/109/myqatchart-0.1.0.tgz/myqatchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-09T18:53:35.785142358+08:00"
